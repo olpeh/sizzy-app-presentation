@@ -45,12 +45,16 @@ function App() {
           </ul>
         </div>
         <div id="misc">
-          <h2>Misc</h2>
+          <h2>Misc/Minor things</h2>
           <ul>
             <li>Not good together with Next.js (not a Sizzy issue)</li>
             <li>Used to be a free Open Source project</li>
             <li>No free trial – money back guarantee though</li>
             <li>Try it out yourself</li>
+            <li>
+              The AppImage does not add the app itself to the menu – have to
+              start from CLI
+            </li>
           </ul>
         </div>
         <div id="thx">
