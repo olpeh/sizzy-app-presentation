@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sizzy-app-presentation/static/css/main.74323ce9.chunk.css",
-    "main.js": "/sizzy-app-presentation/static/js/main.735ceb2f.chunk.js",
-    "main.js.map": "/sizzy-app-presentation/static/js/main.735ceb2f.chunk.js.map",
+    "main.js": "/sizzy-app-presentation/static/js/main.c4c6d63c.chunk.js",
+    "main.js.map": "/sizzy-app-presentation/static/js/main.c4c6d63c.chunk.js.map",
     "runtime~main.js": "/sizzy-app-presentation/static/js/runtime~main.28d50185.js",
     "runtime~main.js.map": "/sizzy-app-presentation/static/js/runtime~main.28d50185.js.map",
     "static/js/2.f39e9b42.chunk.js": "/sizzy-app-presentation/static/js/2.f39e9b42.chunk.js",
     "static/js/2.f39e9b42.chunk.js.map": "/sizzy-app-presentation/static/js/2.f39e9b42.chunk.js.map",
     "index.html": "/sizzy-app-presentation/index.html",
-    "precache-manifest.d97e680e4ec09d295c7b922018e6d0cb.js": "/sizzy-app-presentation/precache-manifest.d97e680e4ec09d295c7b922018e6d0cb.js",
+    "precache-manifest.9d7631f6e58f4c0e711df65bdc0248c7.js": "/sizzy-app-presentation/precache-manifest.9d7631f6e58f4c0e711df65bdc0248c7.js",
     "service-worker.js": "/sizzy-app-presentation/service-worker.js",
     "static/css/main.74323ce9.chunk.css.map": "/sizzy-app-presentation/static/css/main.74323ce9.chunk.css.map",
     "static/media/logo.svg": "/sizzy-app-presentation/static/media/logo.aac76427.svg"
