@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sizzy-app-presentation/static/css/main.74323ce9.chunk.css",
+    "main.css": "/sizzy-app-presentation/static/css/main.caeba3e8.chunk.css",
     "main.js": "/sizzy-app-presentation/static/js/main.c4c6d63c.chunk.js",
     "main.js.map": "/sizzy-app-presentation/static/js/main.c4c6d63c.chunk.js.map",
     "runtime~main.js": "/sizzy-app-presentation/static/js/runtime~main.28d50185.js",
@@ -8,9 +8,9 @@
     "static/js/2.f39e9b42.chunk.js": "/sizzy-app-presentation/static/js/2.f39e9b42.chunk.js",
     "static/js/2.f39e9b42.chunk.js.map": "/sizzy-app-presentation/static/js/2.f39e9b42.chunk.js.map",
     "index.html": "/sizzy-app-presentation/index.html",
-    "precache-manifest.9d7631f6e58f4c0e711df65bdc0248c7.js": "/sizzy-app-presentation/precache-manifest.9d7631f6e58f4c0e711df65bdc0248c7.js",
+    "precache-manifest.2d4b211e07c0ec140ebee27550189725.js": "/sizzy-app-presentation/precache-manifest.2d4b211e07c0ec140ebee27550189725.js",
     "service-worker.js": "/sizzy-app-presentation/service-worker.js",
-    "static/css/main.74323ce9.chunk.css.map": "/sizzy-app-presentation/static/css/main.74323ce9.chunk.css.map",
+    "static/css/main.caeba3e8.chunk.css.map": "/sizzy-app-presentation/static/css/main.caeba3e8.chunk.css.map",
     "static/media/logo.svg": "/sizzy-app-presentation/static/media/logo.aac76427.svg"
   }
 }

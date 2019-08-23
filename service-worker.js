@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sizzy-app-presentation/precache-manifest.9d7631f6e58f4c0e711df65bdc0248c7.js"
+  "/sizzy-app-presentation/precache-manifest.2d4b211e07c0ec140ebee27550189725.js"
 );
 
 self.addEventListener('message', (event) => {

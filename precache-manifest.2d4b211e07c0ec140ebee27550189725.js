@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09b98d9ae928a6851e9f502a30fcb0df",
+    "revision": "2e26dc0abd31dc49d9c75623d1dec205",
     "url": "/sizzy-app-presentation/index.html"
   },
   {
-    "revision": "a99de794165fcb24c03d",
-    "url": "/sizzy-app-presentation/static/css/main.74323ce9.chunk.css"
+    "revision": "30e72b9f0c989c51268f",
+    "url": "/sizzy-app-presentation/static/css/main.caeba3e8.chunk.css"
   },
   {
     "revision": "7267d26204585dbe24fb",
     "url": "/sizzy-app-presentation/static/js/2.f39e9b42.chunk.js"
   },
   {
-    "revision": "a99de794165fcb24c03d",
+    "revision": "30e72b9f0c989c51268f",
     "url": "/sizzy-app-presentation/static/js/main.c4c6d63c.chunk.js"
   },
   {
