@@ -29,6 +29,7 @@ function App() {
             <li>Does one thing and does it well</li>
             <li>Chrome dev-tools</li>
             <li>Works on Linux as well</li>
+            <li>Customizable</li>
           </ul>
         </div>
         <div id="cons">
@@ -47,7 +48,9 @@ function App() {
           <h2>Misc</h2>
           <ul>
             <li>Not good together with Next.js (not a Sizzy issue)</li>
-            <li>Used to be free Open Source project</li>
+            <li>Used to be a free Open Source project</li>
+            <li>No free trial – money back guarantee though</li>
+            <li>Try it out yourself</li>
           </ul>
         </div>
         <div id="thx">
