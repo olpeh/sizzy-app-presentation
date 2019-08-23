@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3ff13317fd56041d4613d8cd6ca201a",
+    "revision": "6a47abcd5ccc31c71d26d7a9d220ac1a",
     "url": "/sizzy-app-presentation/index.html"
   },
   {
-    "revision": "97d3b8cc0e2ddc3c5795",
+    "revision": "c0fabaa4ad5cc7dcbee2",
     "url": "/sizzy-app-presentation/static/css/main.74323ce9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sizzy-app-presentation/static/js/2.f39e9b42.chunk.js"
   },
   {
-    "revision": "97d3b8cc0e2ddc3c5795",
-    "url": "/sizzy-app-presentation/static/js/main.6853d203.chunk.js"
+    "revision": "c0fabaa4ad5cc7dcbee2",
+    "url": "/sizzy-app-presentation/static/js/main.735ceb2f.chunk.js"
   },
   {
     "revision": "991f6bc53fe52260ac10",
